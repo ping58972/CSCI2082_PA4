@@ -1,7 +1,7 @@
 # Recursion with Java OOP
 
 <img src="https://a.imge.to/2019/07/16/Lkmiq.png" target="_blank" alt="Simple Parser Linked Stack">
-These Assignments is from Data Structure and Algorithm course, to implement, and display to GUI, and implements by Java language and Swing framework, etc.
+These Assignments is from Data Structure and Algorithm course, to implement Recursion with Java OOP, and display to GUI, and implements by Java language and Swing framework, etc.
 
 ## Built with
 
